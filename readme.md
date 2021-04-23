@@ -36,7 +36,7 @@ O projeto por padrão estará em localhost:8000
 
 ## Como usar ? 
 
-###Search Endpoint
+### Search Endpoint
 
 Endpoint responsável por buscar lista de usuários pela coordenada. Deve-se passar como parâmetros o número da página, 
 a quantidade de elementos por página e as coordenadas definidas pela latitude e longitude. O cURL abaixo é um exemplo 

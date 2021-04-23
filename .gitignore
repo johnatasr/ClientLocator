@@ -1,3 +1,4 @@
 .idea
 ./locator/__pycache__
 ./clientlocator/__pycache__
+db.sqlite3
