@@ -1,4 +1,4 @@
-# ClienteLocator
+# ClientLocator
 
 Projeto desenvolvido para aperfeiçoar alguns conhecimentos de arquitetura de software. O fluxo é simples onde ao ser iniciada a aplicação
 é feita uma chamada aos endpoints de dados, no caso, dados vindos de JSON e CSV, e logo após o tratamento desses dados, são inseridos no
