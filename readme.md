@@ -1,6 +1,6 @@
 # ClienteLocator
 
-Projeto desenvolvido como teste prático do processo de seleção da Juntos Somos +. O fluxo é simples onde ao ser iniciada a aplicação
+Projeto desenvolvido para aperfeiçoar alguns conhecimentos de arquitetura de software. O fluxo é simples onde ao ser iniciada a aplicação
 é feita uma chamada aos endpoints de dados, no caso, dados vindos de JSON e CSV, e logo após o tratamento desses dados, são inseridos no
 Redis como armazenamento em memória. A api possue apenas um endpoint para consulta por coordenada, onde é retornada uma lista paginada de 
 usuários clientes disponíveis na coordenada informada. A aplicação foi desenvolvida em camadas OO, seguindo critérios do DDD, SOLID e DRY.
